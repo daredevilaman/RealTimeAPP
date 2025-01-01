@@ -1,4 +1,4 @@
-package dev.farhan.movieist.movies;
+package dev.shivi.movieist.movies;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
